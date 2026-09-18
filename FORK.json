@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/wllama",
+  "source": "ngxson/wllama",
+  "source_url": "https://github.com/ngxson/wllama",
+  "commit": "46af429766fc646ab3c1f19ae9774fd596ef0106",
+  "branch": "master",
+  "fetched": "2026-09-18",
+  "upstream_license": "MIT",
+  "upstream_license_name": "MIT License",
+  "role": "browser — llama.cpp compiled to WebAssembly",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
